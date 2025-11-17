@@ -1,0 +1,11 @@
+https://www.linkedin.com/posts/forwardedgeai_ai-alamoace-cybersecurity-activity-7396200481032912896-nwZd?utm_source=share&utm_medium=member_desktop&rcm=ACoAAFkhMY0Bipg5sdWnWh9tIFBXyoZn7zVkKvU
+
+[Forward Edge-AI](https://www.linkedin.com/company/forwardedgeai/) is proud to serve as a Gold Sponsor at the 2025 Alamo ACE.  
+  
+Join us December 2–5 at the JW Marriott San Antonio Hill Country Resort & Spa as we showcase Isidore Quantum®, our CNSA 2.0 compliant post-quantum security solution built for mission-critical operations across land, sea, air, and space.  
+  
+Visit Booth 115 to see how we are helping protect today’s missions from tomorrow’s threats.  
+  
+Let’s connect in San Antonio! Register here: [https://lnkd.in/gJSA4JGK](https://lnkd.in/gJSA4JGK)  
+  
+[hashtag#AI](https://www.linkedin.com/search/results/all/?keywords=%23ai&origin=HASH_TAG_FROM_FEED) [hashtag#AlamoACE](https://www.linkedin.com/search/results/all/?keywords=%23alamoace&origin=HASH_TAG_FROM_FEED) [hashtag#Cybersecurity](https://www.linkedin.com/search/results/all/?keywords=%23cybersecurity&origin=HASH_TAG_FROM_FEED) [hashtag#DataSecurity](https://www.linkedin.com/search/results/all/?keywords=%23datasecurity&origin=HASH_TAG_FROM_FEED) [hashtag#Encryption](https://www.linkedin.com/search/results/all/?keywords=%23encryption&origin=HASH_TAG_FROM_FEED) [hashtag#PostQuantum](https://www.linkedin.com/search/results/all/?keywords=%23postquantum&origin=HASH_TAG_FROM_FEED) [hashtag#PQC](https://www.linkedin.com/search/results/all/?keywords=%23pqc&origin=HASH_TAG_FROM_FEED) [hashtag#QDay](https://www.linkedin.com/search/results/all/?keywords=%23qday&origin=HASH_TAG_FROM_FEED) [hashtag#Quantum](https://www.linkedin.com/search/results/all/?keywords=%23quantum&origin=HASH_TAG_FROM_FEED) [hashtag#QuantumSecurity](https://www.linkedin.com/search/results/all/?keywords=%23quantumsecurity&origin=HASH_TAG_FROM_FEED) [AFCEA International](https://www.linkedin.com/company/afcea-international/) [AFCEA Alamo Chapter](https://www.linkedin.com/company/alamo-chapter-afcea/)
