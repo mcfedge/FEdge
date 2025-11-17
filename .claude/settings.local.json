@@ -1,0 +1,15 @@
+{
+  "permissions": {
+    "allow": [
+      "Bash(Get-ChildItem \"C:\\Users\\Mark Cetola\\Downloads\\FEdge\\.claude\\skills\" -Directory)",
+      "Bash(Select-Object Name, CreationTime, LastWriteTime)",
+      "Bash(Format-Table -AutoSize)",
+      "Bash(xargs ls:*)",
+      "Bash(find:*)",
+      "Bash(python3:*)",
+      "Bash(pip install:*)"
+    ],
+    "deny": [],
+    "ask": []
+  }
+}

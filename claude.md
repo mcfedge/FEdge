@@ -14,6 +14,10 @@ The following skills are available in this workspace:
 - **pitch-deck** - Professional investor and sales pitch decks
 - **social-media-generator** - Platform-optimized social media content
 - **internal-comms** - Internal communications (status reports, newsletters, FAQs)
+- **fe-comms** - Forward Edge-AI internal communications using Smart Brevity principles
+
+## Data Analysis
+- **csv-data-visualizer** - Interactive data visualizations, statistical plots, and dashboards for CSV files
 
 ## Utilities
 - **feai-brand** - Forward Edge-AI corporate branding
