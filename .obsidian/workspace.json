@@ -1,0 +1,219 @@
+{
+  "main": {
+    "id": "d78a11e72f75f448",
+    "type": "split",
+    "children": [
+      {
+        "id": "27ce47b49fb6bf45",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "67e4fd99915116a8",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "New tab"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "b86cf6823a5f59df",
+    "type": "split",
+    "children": [
+      {
+        "id": "3ee7af933b5032b6",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "b525c2e132ecaebc",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
+            }
+          },
+          {
+            "id": "0203a98c5a25de78",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Search"
+            }
+          },
+          {
+            "id": "572162742f268a7d",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 251.5
+  },
+  "right": {
+    "id": "9be630acb104cea1",
+    "type": "split",
+    "children": [
+      {
+        "id": "6a18aac62d3d9bf4",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "7f80da71f6c8ff5e",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks"
+            }
+          },
+          {
+            "id": "886ecce65bab930c",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links"
+            }
+          },
+          {
+            "id": "10222ff07a2827ec",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          },
+          {
+            "id": "004107983def53e8",
+            "type": "leaf",
+            "state": {
+              "type": "all-properties",
+              "state": {
+                "sortOrder": "frequency",
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-archive",
+              "title": "All properties"
+            }
+          },
+          {
+            "id": "a6d9727fc9037cec",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Outline"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "bases:Create new base": false
+    }
+  },
+  "active": "67e4fd99915116a8",
+  "lastOpenFiles": [
+    "claude.md",
+    "Leidos/executive brief.md",
+    "Leidos",
+    "Branding/Corporate_Slide_Branding_Style (Colors, Font, Brands).md",
+    "Branding",
+    "New folder",
+    "Corporate_Slide_Branding_Style (Colors, Font, Brands).md",
+    "Isidore/Alamo ACE/~$w Horizons Smart Sheets.docx",
+    "Isidore/Alamo ACE/New Horizons Smart Sheets.docx",
+    "Isidore/Alamo ACE/node_modules/@types/node/ts5.7/compatibility/float16array.d.ts",
+    "Isidore/Alamo ACE/node_modules/@types/node/ts5.7/index.d.ts",
+    "Isidore/Alamo ACE/node_modules/@types/node/ts5.7/compatibility",
+    "Isidore/Alamo ACE/node_modules/@types/node/ts5.7",
+    "Isidore/Alamo ACE/node_modules/@types/node/ts5.6/compatibility/float16array.d.ts",
+    "Isidore/Alamo ACE/node_modules/readable-stream/doc/wg-meetings/2015-01-30.md",
+    "Isidore/Alamo ACE/node_modules/process-nextick-args/readme.md",
+    "Isidore/Alamo ACE/New Horizons Smart Sheets.md",
+    "Isidore/Alamo ACE.md",
+    "Isidore/CISO Report/Rovo Deep.md",
+    "Isidore/CISO Report/Rovo.md",
+    "Isidore/CISO Report/Maven.md",
+    "Cassian/Walkthrough.md",
+    "node_modules/readable-stream/doc/wg-meetings/2015-01-30.md",
+    "node_modules/jszip/graph.svg",
+    "node_modules/pako/README.md",
+    "node_modules/xml-js/README.md",
+    "node_modules/sax/LICENSE.md",
+    "node_modules/string_decoder/README.md",
+    "Alamo_ACE_Briefing_Document.md",
+    "newhorizons/NH25 C and N FINAL_2025_v2_compressed.md",
+    "newhorizons/NH25 Electronic Systems_compressed.md",
+    "newhorizons/NH25 NC3 Integration Directorate_compressed.md",
+    "newhorizons/NH25 C3BM Kordyak FINAL v1_compressed (1).md",
+    "Weekly Status/Initial Training/11.12 - ForwardEdge-mB Intro Call.md",
+    "Weekly Status/Initial Training/Mark & Brandon Sync.md",
+    "Isidore/CX Updates/11.13 - Isidore Customer Updates.md",
+    "Weekly Status/11.14 - Weekly Status Update.md"
+  ]
+}
