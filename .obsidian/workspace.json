@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "b7f539e7239e1d31",
+        "id": "44892fd3d093fa10",
         "type": "tabs",
         "children": [
           {
-            "id": "2528331f314add54",
+            "id": "590f88d1a1ce6107",
             "type": "leaf",
             "state": {
               "type": "empty",
@@ -176,8 +176,13 @@
       "bases:Create new base": false
     }
   },
-  "active": "2528331f314add54",
+  "active": "590f88d1a1ce6107",
   "lastOpenFiles": [
+    "Isidore/Eric's Views/Mission-First Product Development for Defense Tech.md",
+    "Isidore/Eric's Views",
+    "Isidore/Partners/InHub in South Africa.md",
+    "Isidore/CX Updates/11.13 - Isidore Customer Updates.md",
+    "Isidore/Partners",
     "Active Proposals/FEAI_Capabilities_Analysis_Document.html",
     "Active Proposals/Active Proposals 11-17-2025 4-06-47 PM.csv",
     "Active Proposals/Proposals_Dashboard.html",
@@ -186,9 +191,6 @@
     "New folder",
     "FEAI_Capabilities_Analysis_Document.html",
     "create_analysis.py",
-    "FEAI_Capabilities_Analysis.html",
-    "Proposals_Dashboard.html",
-    "Active Proposals 11-17-2025 4-06-47 PM.csv",
     "Weekly Status/11.14 - Weekly Status Summary.md",
     "CLAUDE.md",
     "CRM/Bulk Upload to Dynmaics.md",
@@ -216,8 +218,6 @@
     "Isidore/Alamo ACE.md",
     "Isidore/CISO Report/Rovo Deep.md",
     "Isidore/CISO Report/Rovo.md",
-    "Isidore/CISO Report/Maven.md",
-    "Cassian/Walkthrough.md",
     "node_modules/jszip/graph.svg"
   ]
 }
