@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "44892fd3d093fa10",
+        "id": "855aaa0e7d237d03",
         "type": "tabs",
         "children": [
           {
-            "id": "590f88d1a1ce6107",
+            "id": "006725c74edf66b8",
             "type": "leaf",
             "state": {
               "type": "empty",
@@ -176,21 +176,29 @@
       "bases:Create new base": false
     }
   },
-  "active": "590f88d1a1ce6107",
+  "active": "006725c74edf66b8",
   "lastOpenFiles": [
+    "CRM/Active Proposals/11.17/Active_Proposals_Brief.md",
+    "CRM/Active Proposals/11.17/Proposals_Dashboard.html",
+    "CRM/Active Proposals/11.17/FEAI_Capabilities_Analysis_Document.html",
+    "CRM/Active Proposals/11.17/FEAI_Capabilities_Analysis.html",
+    "CRM/Active Proposals/11.17/Brief.md",
+    "CRM/Active Proposals/11.17/Active Proposals 11-17-2025 4-06-47 PM.csv",
+    "CRM/Active Proposals/11.17",
+    "CRM/Active Proposals",
+    "Isidore/Oracle/Oracle Partnership Strategy.md",
+    "Isidore/Oracle",
+    "Isidore/New folder",
+    "Oracle Partnership Strategy.md",
+    "11.17 - 11.17 - Oracle sync.md",
+    "11.17 - Oracle Sync - Smart Brevity.md",
+    "Test_11.17 - Oracle sync.md",
+    "Active Proposals/11.17/Brief.md",
+    "Active Proposals/11.17/Active Proposals 11-17-2025 4-06-47 PM.csv",
+    "Active Proposals/11.17/Proposals_Dashboard.html",
     "Isidore/Eric's Views/Mission-First Product Development for Defense Tech.md",
-    "Isidore/Eric's Views",
     "Isidore/Partners/InHub in South Africa.md",
     "Isidore/CX Updates/11.13 - Isidore Customer Updates.md",
-    "Isidore/Partners",
-    "Active Proposals/FEAI_Capabilities_Analysis_Document.html",
-    "Active Proposals/Active Proposals 11-17-2025 4-06-47 PM.csv",
-    "Active Proposals/Proposals_Dashboard.html",
-    "Active Proposals/FEAI_Capabilities_Analysis.html",
-    "Active Proposals",
-    "New folder",
-    "FEAI_Capabilities_Analysis_Document.html",
-    "create_analysis.py",
     "Weekly Status/11.14 - Weekly Status Summary.md",
     "CLAUDE.md",
     "CRM/Bulk Upload to Dynmaics.md",
@@ -210,14 +218,6 @@
     "alamo-ace-briefing/public/vite.svg",
     "claude.md",
     "Leidos/executive brief.md",
-    "Branding/Corporate_Slide_Branding_Style (Colors, Font, Brands).md",
-    "Corporate_Slide_Branding_Style (Colors, Font, Brands).md",
-    "Isidore/Alamo ACE/node_modules/readable-stream/doc/wg-meetings/2015-01-30.md",
-    "Isidore/Alamo ACE/node_modules/process-nextick-args/readme.md",
-    "Isidore/Alamo ACE/New Horizons/New Horizons Smart Sheets.md",
-    "Isidore/Alamo ACE.md",
-    "Isidore/CISO Report/Rovo Deep.md",
-    "Isidore/CISO Report/Rovo.md",
     "node_modules/jszip/graph.svg"
   ]
 }
