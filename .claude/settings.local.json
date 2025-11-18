@@ -7,7 +7,11 @@
       "Bash(xargs ls:*)",
       "Bash(find:*)",
       "Bash(python3:*)",
-      "Bash(pip install:*)"
+      "Bash(pip install:*)",
+      "Bash(Get-ChildItem \"c:\\Users\\Mark Cetola\\Downloads\\FEdge\\.claude\\skills\" -Directory)",
+      "Bash(Select-Object Name)",
+      "Bash(node create_proposal_doc.js:*)",
+      "Bash(npm install:*)"
     ],
     "deny": [],
     "ask": []
