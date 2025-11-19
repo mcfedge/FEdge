@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "de3868aa0224dd40",
+        "id": "38d186b9d582fd41",
         "type": "tabs",
         "children": [
           {
-            "id": "62f6e5739052d2a3",
+            "id": "e41b2b2fd2627e9a",
             "type": "leaf",
             "state": {
               "type": "empty",
@@ -176,13 +176,15 @@
       "bases:Create new base": false
     }
   },
-  "active": "b525c2e132ecaebc",
+  "active": "e41b2b2fd2627e9a",
   "lastOpenFiles": [
+    "Business Model/Forward_Edge_Business_Model_Details.md",
+    "Cassian/Post Demo for Sev1 Tech, Lumen-Partner.md",
+    "Cassian/Walkthrough.md",
+    "CRM/SFDC_Implementation_Best_Practices.md",
     "CRM/11.18_Salesforce_Implementation_Kickoff.md",
     "Business Model/Salesforce_Implementation_Questions_from_Consultant.md",
-    "Business Model/Forward_Edge_Business_Model_Details.md",
     "Business Model",
-    "CRM/SFDC_Implementation_Best_Practices.md",
     "CRM/Untitled.md",
     "CRM/Active Proposals/11.17/~WRL0001.tmp",
     "CRM/Active Proposals/11.17/~WRD0000.tmp",
@@ -212,7 +214,6 @@
     "Weekly Status/11.14 - Weekly Status Summary.md",
     "CLAUDE.md",
     "CRM/Bulk Upload to Dynmaics.md",
-    "Isidore/Alamo ACE/New Horizons/NH25 C3BM Kordyak FINAL v1_compressed (1).md",
     "new-horizons-smartsheets/src/assets/react.svg",
     "new-horizons-smartsheets/public/vite.svg",
     "alamo-ace-briefing/src/assets/react.svg",

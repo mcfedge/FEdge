@@ -1,3 +1,12 @@
+- All 4 revenue streams explained: Hardware, Subscription SaaS, Services, Warranty
+- Customer types in detail: Government, Resellers, OEMs
+- Pricing architecture with all tiers (GSA baseline, Reseller T1-T3, OEM)
+- Deal registration logic (brought deal vs. routed deal discounts)
+- Contract & renewal terms including hardware refresh incentives
+- Professional services framework
+- Revenue forecasting implications
+- Salesforce configuration needs
+- Outstanding questions for refinement
 # Forward Edge-AI Business Model & Revenue Intricacy
 
 **Summary:** Hardware + subscription SaaS + professional services with multiple customer types, pricing tiers, and deal structures
