@@ -280,7 +280,7 @@ def create_pitch_deck(data, output_file="pitch_deck.pptx"):
 
     # Save presentation
     prs.save(output_file)
-    print(f"✅ Pitch deck created: {output_file}")
+    print(f"Pitch deck created: {output_file}")
     return output_file
 
 
