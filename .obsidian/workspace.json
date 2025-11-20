@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "ea4c29567bd7f81d",
+        "id": "093c41c6c2ca79b0",
         "type": "tabs",
         "children": [
           {
-            "id": "9dbd5d54b56dae53",
+            "id": "20303b380d715342",
             "type": "leaf",
             "state": {
               "type": "empty",
@@ -176,13 +176,21 @@
       "bases:Create new base": false
     }
   },
-  "active": "9dbd5d54b56dae53",
+  "active": "20303b380d715342",
   "lastOpenFiles": [
+    "Isidore/CISO Report/Federal Report CISO 2025-11-13.xlsx",
+    "Isidore/CISO Report/Maven.md",
+    "Isidore/CISO Report/Rovo Deep.md",
+    "Business Model/Forward Edge - What They Do.md",
+    "GEMINI.md",
+    "Isidore/APFIT/Vulcan Open Call.md",
+    "Isidore/Leidos/executive brief.md",
+    "Isidore/APFIT",
+    "ART - GTM/Submission Cadence.md",
     "~$Forward_Edge_Pitch_Deck.pptx",
     "Forward_Edge_Pitch_Deck.pptx",
     "create_feai_pitch_deck.py",
     "pitch_data.json",
-    "GEMINI.md",
     "Isidore/SIBR/manager_report.md",
     "Isidore/SIBR/notification_dr_harvey_melina.md",
     "Isidore/SIBR/due_date_updates_needed.csv",
@@ -192,8 +200,6 @@
     "Isidore/Alamo ACE/New Horizons/New Horizons Smart Sheets.docx",
     "Isidore/SIBR/listed_in_crm.md",
     "Isidore/SIBR/currently_published_list.md",
-    "Isidore/SIBR/listed in the CRM.xlsx",
-    "Isidore/SIBR/currently published list.xlsx",
     "Isidore/SIBR/Questions for 11.21.md",
     "Partners/Agreement_Critique.md",
     "node_modules/readable-stream/doc/wg-meetings/2015-01-30.md",
@@ -208,12 +214,6 @@
     "Business Model/Salesforce_Implementation_Questions_from_Consultant.md",
     "CRM/Untitled.md",
     "CRM/besty.md",
-    "CRM/Best Practices.md",
-    "CRM/Active Proposals/11.17/Active_Proposals_Brief.md",
-    "node_modules/util-deprecate/History.md",
-    "node_modules/process-nextick-args/license.md",
-    "CRM/Active Proposals/11.17/Brief.md",
-    "Oracle Partnership Strategy.md",
     "new-horizons-smartsheets/src/assets/react.svg",
     "new-horizons-smartsheets/public/vite.svg",
     "alamo-ace-briefing/src/assets/react.svg",
