@@ -47,6 +47,18 @@ Three logo files are available in `.claude/skills/feai-brand/assets/`:
 
 **Reference**: See `.claude/skills/feai-brand/references/brand_guidelines.md` for gradient specifications and logo usage
 
+### Weekly Review Presentation
+A specific template is available for weekly reviews: `.claude/skills/feai-brand/references/2025-11-28 - Forward Edge Weekly Review.pptx`.
+
+**Key Layouts & Usage:**
+- `1_Title & Bullets`: Use for standard bulleted lists and general updates.
+- `Title & Content (no logo)`: This is the primary layout for data-heavy slides. Use specifically for:
+    - **Tables**: Financials, Opportunities, and "Key Decisions Needed" matrices.
+    - **Status Updates**: Departmental updates (e.g., CTO, CMO) with sections for Objectives, Accomplishments, In-Progress, and Risks.
+    - **Agendas**: Meeting agendas and schedules.
+- `4_Title oval image` / `1_Title oval image`: Title slides with oval image placeholders for team intros or section breaks.
+
+
 ### Word Documents (.docx)
 
 **Header:**

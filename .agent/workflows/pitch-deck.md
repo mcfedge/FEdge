@@ -16,6 +16,7 @@ Activate this skill when users request:
 - Product launch presentations
 - Startup pitch competition decks
 - Any structured business presentation following standard pitch deck format
+- Weekly status reviews (using the Forward Edge Weekly Review template)
 
 ## Workflow
 
@@ -250,3 +251,6 @@ After generating the base deck:
 
 ### references/
 - `pitch_deck_best_practices.md`: Comprehensive guide on pitch deck content, structure, and design principles
+- `2025-11-28 - Forward Edge Weekly Review.pptx`: Template for weekly reviews.
+    - Use `Title & Content (no logo)` layout for **Tables** (Financials, Opportunities), **Agendas**, and **Status Updates** (Objectives, Risks).
+    - Use `1_Title & Bullets` for standard lists.

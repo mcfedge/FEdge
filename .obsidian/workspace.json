@@ -4,21 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "5d93f5fc47c9736b",
+        "id": "cf68b8342083524e",
         "type": "tabs",
         "children": [
           {
-            "id": "8304b3072eb12a42",
+            "id": "e96de59951485070",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Isidore/SIBR/Questions for 11.21.md",
+                "file": "CRM/11.21 - Forward Edge-AI Discovery Workshop.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Questions for 11.21"
+              "title": "11.21 - Forward Edge-AI Discovery Workshop"
             }
           }
         ]
@@ -180,8 +180,12 @@
       "bases:Create new base": false
     }
   },
-  "active": "8304b3072eb12a42",
+  "active": "e96de59951485070",
   "lastOpenFiles": [
+    "Isidore/PWSA Enhancement (Cryptography)/Technical Review Meeting - Strategic Advancements in Resilient Space Technologies for PWSA Enhancement (Cryptography).md",
+    "CRM/11.21 - Forward Edge-AI Discovery Workshop.md",
+    "Isidore/PWSA Enhancement (Cryptography)",
+    "Isidore/SIBR/Questions for 11.21.md",
     "Isidore/SIBR/notification_dr_harvey_melina.md",
     "Isidore/SIBR/manager_report.md",
     "Isidore/SIBR/listed_in_crm.md",
@@ -194,7 +198,6 @@
     "Isidore/Alamo ACE/Fw_ FY26 Technology Operational Experimentation Events (TOEE)",
     "Fw_ FY26 Technology Operational Experimentation Events (TOEE)/VS26/~$Experiments Quad Chart Template.pptx",
     "Fw_ FY26 Technology Operational Experimentation Events (TOEE)/pptDD99.tmp",
-    "Fw_ FY26 Technology Operational Experimentation Events (TOEE)/~$Forward Edge-AI VS26 Quad Chart.pptx",
     "Fw_ FY26 Technology Operational Experimentation Events (TOEE)/verification.md",
     "Fw_ FY26 Technology Operational Experimentation Events (TOEE)/vs26-whitepaper-pandoc.md",
     "Fw_ FY26 Technology Operational Experimentation Events (TOEE)/template-content.md",
@@ -215,8 +218,6 @@
     "Isidore/APFIT/Vulcan Open Call.md",
     "Isidore/Leidos/executive brief.md",
     "ART - GTM/Submission Cadence.md",
-    "Isidore/SIBR/currently_published_list.md",
-    "Isidore/SIBR/Questions for 11.21.md",
     "new-horizons-smartsheets/src/assets/react.svg",
     "new-horizons-smartsheets/public/vite.svg",
     "alamo-ace-briefing/src/assets/react.svg",
